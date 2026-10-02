@@ -1,0 +1,1 @@
+import"./parallax.BUnOpr6s.js";

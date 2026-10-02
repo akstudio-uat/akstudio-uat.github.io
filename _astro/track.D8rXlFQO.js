@@ -1,0 +1,1 @@
+function e(e,t={}){try{window.dispatchEvent(new CustomEvent(`ak:track`,{detail:{event:e,...t}})),window.dataLayer?.push({event:e,...t})}catch{}}export{e as t};
